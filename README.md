@@ -18,7 +18,7 @@ Plan du cours :
 
 	- Chapitre 4. Communication professionnelle d'un concepteur développeur d'application
 
-	- Chapitre 5. Développement d'un code avec des * framework *
+	- Chapitre 5. Développement d'un code avec des *framework*
 
 	- Chapitre 6. Création, gestion et maintien des bases de données
 

@@ -20,4 +20,4 @@
 
 ## Opérer des tests de sécurité
 
-## T.D. Docker et déploiement d'une application
+## T.D. `Docker` et déploiement d'une application

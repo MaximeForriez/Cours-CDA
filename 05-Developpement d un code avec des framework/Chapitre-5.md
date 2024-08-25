@@ -1,17 +1,17 @@
-# Chapitre 5. Développement d'un code avec des framework
+# Chapitre 5. Développement d'un code avec des *framework*
 
 ## Introduction
 
-## Le * front-end * avec un * framework * C.S.S.
+## Le *front-end* avec un *framework* `CSS`
 
 ### La bibliothèque `jQuery`
 
-### La mise en forme avec le * framework * `Bootstrap`
+### La mise en forme avec le *framework* `Bootstrap`
 
 ## Présentation de `NodeJS`
 
-## Le * front-end * avec le * framework * `ReactJS`
+## Le *front-end* avec le *framework* `ReactJS`
 
-## Le * back-end * avec le * framework * `Symfony`
+## Le *back-end* avec le *framework* `Symfony`
 
 ## Conclusion

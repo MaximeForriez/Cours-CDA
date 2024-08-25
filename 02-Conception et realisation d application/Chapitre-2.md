@@ -18,7 +18,7 @@
 
 ### Analyser les besoins de l'utilisateur de l'application
 
-## Concevoir un * plan *
+## Concevoir un *plan*
 
 ### Installer et utiliser les outils de conception
 
@@ -42,7 +42,7 @@
 
 ### Organiser le suivi des tâches
 
-### Rédiger des rapports d'activité, de comptes-rendus de réunion, * etc *.
+### Rédiger des rapports d'activité, de comptes-rendus de réunion, *etc*.
 
 ### Définir les livrables
 
@@ -50,20 +50,20 @@
 
 ## Mini-T.D. Installer et configurer son environnement de travail en fonction du projet
 
-## T.D. PlantUML et diagramme d'activités
+## T.D. `PlantUML` et diagramme d'activités
 
-## T.D. Installation de VirtualBox
+## T.D. Installation de `VirtualBox`
 
-## T.D. À la découverte des serveurs GNU / Linux 
+## T.D. À la découverte des serveurs `GNU / Linux`
 
-## T.D. PlantUML et diagramme de déploiement
+## T.D. `PlantUML` et diagramme de déploiement
 
-## T.D. Git
+## T.D. `Git`
 
-## T.D. Docker et environnement de travail
+## T.D. `Docker` et environnement de travail
 
-## T.D. La comparaison entre la programmation orientée objet en PHP et en JavaScript
+## T.D. La comparaison entre la programmation orientée objet en `PHP` et en `JavaScript`
 
-## T.D. PlantUML et diagramme de classes
+## T.D. `PlantUML` et diagramme de classes
 
-## T.D. PlantUML et diagramme de séquence
+## T.D. `PlantUML` et diagramme de séquence

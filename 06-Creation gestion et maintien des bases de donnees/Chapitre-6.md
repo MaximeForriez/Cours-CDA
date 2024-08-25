@@ -4,7 +4,7 @@
 
 ## Les bases de données relationnelles : le `SQL`
 
-## Les bases de données `NoSQL` : le J.S.O.N.
+## Les bases de données `NoSQL` : le `JSON`
 
 ## Créer et gérer une base de données
 

@@ -8,6 +8,6 @@
 
 ### Tester et sécuriser un A.P.I.
 
-## Avec le * framework * `React Native`
+## Avec le *framework* `React Native`
 
-## Avec le * framewor * `Express` de `NodeJS`
+## Avec le *framework* `Express` de `NodeJS`

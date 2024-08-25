@@ -40,12 +40,12 @@
 
 ## Conclusion
 
-## T.D. Révisions sur le HTML
+## T.D. Révisions sur le `HTML`
 
-## T.D. Révisions sur le C.S.S.
+## T.D. Révisions sur le `CSS`
 
 ## T.D. Algorithmique
 
-## T.D. Révisions sur le JavaScript
+## T.D. Révisions sur le `JavaScript`
 
-## T.D. Révisions sur le PHP
+## T.D. Révisions sur le `PHP`

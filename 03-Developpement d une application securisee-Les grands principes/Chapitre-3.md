@@ -4,14 +4,14 @@
 
 ## Respecter les normes des utilisateurs en situation de handicap
 
-### La structure HTML
+### La structure `HTML`
 
-### Le C.S.S.
+### Le `CSS`
 
-### L'usage de l'* Accessible Rich Internet Application * (A.R.I.A.)
+### L'usage de l'*Accessible Rich Internet Application* (A.R.I.A.)
 
 ## Respecter les recommandations de sécurité
 
 ### Développer des composants métiers sécurisés
 
-### Utiliser le * cloud *
+### Utiliser le *cloud*
