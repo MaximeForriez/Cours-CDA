@@ -6,19 +6,19 @@
 
 ## L'intégration continue, cœur de la démarche DevOps
 
-## Les outils DevOps : le * pipeline *
+## Les outils DevOps : le *pipeline*
 
-### * Plan *
+### *Plan*
 
-### * Code *
+### *Code*
 
-### * Build *
+### *Build*
 
-### * Test *
+### *Test*
 
-### * Deploy *
+### *Deploy*
 
-### * Monitor *
+### *Monitor*
 
 ## Les avantages de la démarche DevOps
 
