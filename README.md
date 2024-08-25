@@ -1,6 +1,6 @@
 # Cours pour la formation de concepteur développeur d'application (C.D.A.) - 2024
 
-Ce dépôt regroupe l'ensemble des supports de cours (T.D.) et (T.P.) de la formation proposée par Maxime Forriez.
+Ce dépôt regroupe l'ensemble des supports de cours (T.D. et T.P.) de la formation proposée par Maxime Forriez.
 
 Plan du cours :
 
