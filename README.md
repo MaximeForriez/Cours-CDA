@@ -30,8 +30,8 @@ Plan du cours :
 
 Le cours s'organise en un ensemble de petits chapitres magistraux afin de présenter ce qui sera réalisé pendant des travaux dirigés (T.D.) et des travaux pratiques (T.P.). Il suit une progression logique au niveau de la difficulté des exercices d'entraînement qui seront proposés.
 
-[!NOTE]
-Le cours ne respecte pas exactement le déroulé de l'acquisition des compétences du référentiel, mais l'ensemble des notions à aborder et maîtriser sont bel et bien présentes.
+> [!NOTE]
+> Le cours ne respecte pas exactement le déroulé de l'acquisition des compétences du référentiel, mais l'ensemble des notions à aborder et maîtriser sont bel et bien présentes.
 
-[!WARNING]
-Le cours est en cours de rédaction.
+> [!WARNING]
+> Le cours est en cours de rédaction.
