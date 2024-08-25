@@ -1,4 +1,4 @@
-# Cours pour la formation de concepteur développeur d'application (C.D.A.)
+# Cours pour la formation de concepteur développeur d'application (C.D.A.) - 2024
 
 Ce dépôt regroupe l'ensemble des supports de cours (T.D.) et (T.P.) de la formation proposée par Maxime Forriez.
 
@@ -30,4 +30,6 @@ Plan du cours :
 
 Le cours s'organise en un ensemble de petits chapitres magistraux afin de présenter ce qui sera réalisé pendant des travaux dirigés (T.D.) et des travaux pratiques (T.P.). Il suit une progression logique au niveau de la difficulté des exercices d'entraînement qui seront proposés.
 
-**N.B.** Le cours ne respecte pas exactement le déroulé de l'acquisition des compétences du référentiel, mais l'ensemble des notions à aborder et maîtriser sont bel et bien présentes.
+**N.B. 1.** Le cours ne respecte pas exactement le déroulé de l'acquisition des compétences du référentiel, mais l'ensemble des notions à aborder et maîtriser sont bel et bien présentes.
+
+**N.B. 2.** Le cours est en cours de rédaction.
