@@ -1,4 +1,7 @@
 # Démarrage du cours
-Abréviations et acronymes
-Présentation du programme
-Questionnaire aux apprenants
+
+- Abréviations et acronymes
+
+- Présentation du programme
+
+- Questionnaire aux apprenants

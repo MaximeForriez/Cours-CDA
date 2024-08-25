@@ -18,11 +18,11 @@ Plan du cours :
 
 	- Chapitre 4. Communication professionnelle d'un concepteur développeur d'application
 
-	- Chapitre 5. Développement d'un code avec des framework
+	- Chapitre 5. Développement d'un code avec des * framework *
 
 	- Chapitre 6. Création, gestion et maintien des bases de données
 
-	- Chapitre 7. Création d'un API Rest
+	- Chapitre 7. Création d'un `API Rest`
 
 	- Chapitre 8. Préparation et exécution des plans de tests d'une application
 
