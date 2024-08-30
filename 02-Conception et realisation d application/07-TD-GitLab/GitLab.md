@@ -4,8 +4,11 @@
 
 Ce T.D. permet d'utiliser un autre outil de versionnage très utilisé, `GitLab`. Vous pouvez créer un compte en ligne (https://gitlab.com/users/sign_in), mais, pour le tester, il semble qu'utiliser `Docker` soit plus pertinent. Ainsi, ce T.D. vous permettra d'opérer une synthèse des deux T.D. précédents et de vérifier si vous avez bien compris le fonctionnement de deux outils indispensables dans le cadre d'une démarche DevOps.
 
-Ce dépôt reprend un projet `GitHub` https://docs.gitlab.com/ee/install/docker/installation.html
-https://github.com/sameersbn/docker-gitlab?tab=readme-ov-file#installation
+Ce dépôt reprend un projet `GitHub` 
+
+- https://docs.gitlab.com/ee/install/docker/installation.html
+
+- https://github.com/sameersbn/docker-gitlab?tab=readme-ov-file#installation
 
 Son installation n'est pas à jour.
 
